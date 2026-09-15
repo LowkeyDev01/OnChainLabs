@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fontdiner+Swanky&family=Inter:wght@400;700&family=Michroma&family=Noto+Sans+JP:wght@400;700&family=Outfit:wght@400;700&family=Plus+Jakarta+Sans:wght@400;700&family=Risque&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;700&family=Space+Grotesk:wght@400;700&display=swap');
+@import "tailwindcss";
+
+.font-one { font-family: 'Bebas Neue', sans-serif; }
+.font-two { font-family: 'Risque', cursive; }
+.font-three { font-family: 'Fontdiner Swanky', cursive; }
+.font-four { font-family: 'Space Grotesk', sans-serif; }
+.font-five { font-family: 'Plus Jakarta Sans', sans-serif; }
+.font-six { font-family: 'Inter', sans-serif; }
+.font-seven { font-family: 'Outfit', sans-serif; }
+.font-eight { font-family: 'Noto Sans JP', sans-serif; }
+.font-nine { font-family: 'Michroma', sans-serif; }
+.font-ten { font-family: 'Roboto', sans-serif; }
+.font-eleven { font-family: 'Roboto Condensed', sans-serif; }
+
